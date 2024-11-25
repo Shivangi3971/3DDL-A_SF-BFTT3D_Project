@@ -5,7 +5,8 @@ Installation
 
 Create a python virtual environment using pip and install dependencies after activating it:
 
-``` pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 
 If this fails, please try to install the environment given in this repository https://github.com/abie-e/BFTT3D
@@ -43,7 +44,7 @@ pointnet_trained.pth - trained pointnet model trained by our group.
 curvenet.t7 - trained curvenet model trained by our group.
 dgcnn.t7 - trained dgcnn model trained by our group.
 
-#### 3DDL-A_SF-BFTT3D_Project
+## 3DDL-A_SF-BFTT3D_Project
 
 Just run ro run codes at once - creates all tables given in report:
 
