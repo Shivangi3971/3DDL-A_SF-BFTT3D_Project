@@ -26,7 +26,7 @@ If this fails, please try to install the environment given in this repository ht
 
 
 Please download the following datasets for the prototype memory
-##### [Download ModelNet40] (https://drive.google.com/drive/folders/1H3UOF1268UIK3z_FkNcBZfauuDbOYLNY?usp=sharing)
+##### [Download ModelNet40](https://drive.google.com/drive/folders/1H3UOF1268UIK3z_FkNcBZfauuDbOYLNY?usp=sharing)
 
 Corruption:
 
