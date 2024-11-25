@@ -4,8 +4,8 @@ Installation
 
 
 Create a python virtual environment using pip and install dependencies after activating it:
-###### pip install -r requirements.txt
-
+``` pip install -r requirements.txt
+```
 
 If this fails, please try to install the environment given in this repository https://github.com/abie-e/BFTT3D
 
@@ -15,6 +15,7 @@ If this fails, please try to install the environment given in this repository ht
 ### Folder structure
 
 
+```
 .
 
 ├── ...
@@ -26,7 +27,7 @@ If this fails, please try to install the environment given in this repository ht
 ├── checkpoint                   
 │      └── ... 
 └── ....
-
+```
 
 Please download the following datasets for the prototype memory
 ##### [Download ModelNet40](https://drive.google.com/drive/folders/1H3UOF1268UIK3z_FkNcBZfauuDbOYLNY?usp=sharing)
