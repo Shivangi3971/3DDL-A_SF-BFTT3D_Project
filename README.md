@@ -1,14 +1,14 @@
 # 3DDL-A_SF-BFTT3D_Project
 
-####### Installation 
+Installation 
 
 
-####### Create a python virtual environment using pip and install dependencies after activating it:
+Create a python virtual environment using pip and install dependencies after activating it:
 **
 pip install -r requirements.txt**
 
 
-####### If this fails, please try to install the environment given in this repository https://github.com/abie-e/BFTT3D
+If this fails, please try to install the environment given in this repository https://github.com/abie-e/BFTT3D
 
 
 ## Dataset
@@ -16,25 +16,25 @@ pip install -r requirements.txt**
 ### Folder structure
 
 
-####### .
+.
 
-####### ├── ...
+├── ...
 
-####### ├── datasets
+├── datasets
 
-####### ├── data                    
+├── data                    
 
-####### │   ├── modelnet40_ply_hdf5_2048          
+│   ├── modelnet40_ply_hdf5_2048          
 
-####### │   ├── modelnet40_c         
+│   ├── modelnet40_c         
 
-####### │   └── ...                
+│   └── ...                
 
-####### ├── checkpoint                   
+├── checkpoint                   
 
-####### │   └── ... 
+│   └── ... 
 
-####### └── ....
+└── ....
 
 
 Please download the following datasets for the prototype memory
