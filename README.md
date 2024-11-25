@@ -44,7 +44,7 @@ pointnet_trained.pth - trained pointnet model trained by our group.
 curvenet.t7 - trained curvenet model trained by our group.
 dgcnn.t7 - trained dgcnn model trained by our group.
 
-## 3DDL-A_SF-BFTT3D_Project
+## Run 3DDL-A_SF-BFTT3D_Project files
 
 Just run ro run codes at once - creates all tables given in report:
 
