@@ -4,6 +4,7 @@ Installation
 
 
 Create a python virtual environment using pip and install dependencies after activating it:
+
 ``` pip install -r requirements.txt
 ```
 
@@ -29,13 +30,32 @@ If this fails, please try to install the environment given in this repository ht
 └── ....
 ```
 
-Please download the following datasets for the prototype memory
+Please download the following ModelNet40 and ModelNet40C datasets of source data and target data with Corruption respectively for the prototype memory. 
 ##### [Download ModelNet40](https://drive.google.com/drive/folders/1H3UOF1268UIK3z_FkNcBZfauuDbOYLNY?usp=sharing)
 
-Corruption:
 
-Please follow the script from ModelNet40-C to add corruption.
+Checkpoint:
+[checkpoint](https://drive.google.com/drive/folders/1nOvmsCR_7SMOoUeimD8YYGxW033gCiEP?usp=sharing)  is uploaded here.
 
-We also provide download links:
+pointnet.pth - trained pointnet model given in BFTT3D repository.
 
-Download ModelNet40-C from Google Drive.
+pointnet_trained.pth - trained pointnet model trained by our group.
+curvenet.t7 - trained curvenet model trained by our group.
+dgcnn.t7 - trained dgcnn model trained by our group.
+
+#### 3DDL-A_SF-BFTT3D_Project
+
+Just run ro run codes at once - creates all tables given in report:
+
+``` bash.sh ```
+
+Reference:
+1. [Backpropagation-free Network for 3D Test-time Adaptation (BFTT3D)](https://github.com/abie-e/BFTT3D)
+2. [PointNet]
+3. [DGCNN]
+4. [Curvenet]
+
+
+#### Code belongs to Group-9 (Shivangi Rai and Kunal Jangid)
+
+
