@@ -4,8 +4,7 @@ Installation
 
 
 Create a python virtual environment using pip and install dependencies after activating it:
-**
-pip install -r requirements.txt**
+###### pip install -r requirements.txt
 
 
 If this fails, please try to install the environment given in this repository https://github.com/abie-e/BFTT3D
