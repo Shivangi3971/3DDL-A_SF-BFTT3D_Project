@@ -19,21 +19,13 @@ If this fails, please try to install the environment given in this repository ht
 .
 
 ├── ...
-
 ├── datasets
-
 ├── data                    
-
-│   ├── modelnet40_ply_hdf5_2048          
-
-│   ├── modelnet40_c         
-
-│   └── ...                
-
+│      ├── modelnet40_ply_hdf5_2048          
+│      ├── modelnet40_c         
+│      └── ...                
 ├── checkpoint                   
-
-│   └── ... 
-
+│      └── ... 
 └── ....
 
 
