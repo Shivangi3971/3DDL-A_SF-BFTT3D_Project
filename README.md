@@ -38,11 +38,13 @@ Please download the following ModelNet40 and ModelNet40C datasets of source data
 Checkpoint:
 [checkpoint](https://drive.google.com/drive/folders/1nOvmsCR_7SMOoUeimD8YYGxW033gCiEP?usp=sharing)  is uploaded here.
 
+```
 pointnet.pth - trained pointnet model given in BFTT3D repository.
 
 pointnet_trained.pth - trained pointnet model trained by our group.
 curvenet.t7 - trained curvenet model trained by our group.
 dgcnn.t7 - trained dgcnn model trained by our group.
+```
 
 ## Run 3DDL-A_SF-BFTT3D_Project files
 
