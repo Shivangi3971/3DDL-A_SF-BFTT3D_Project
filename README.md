@@ -5,6 +5,8 @@ Installation
 
 Create a python virtual environment using pip and install dependencies after activating it:
 
+##### Use Cuda 11.1 and torch 1.8.2
+
 ```
 pip install -r requirements.txt
 ```
