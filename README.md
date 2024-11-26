@@ -50,9 +50,11 @@ dgcnn.t7 - trained dgcnn model trained by our group.
 
 ## Run 3DDL-A_SF-BFTT3D_Project files
 
-Just run ro run codes at once - creates all tables given in report:
+Just run below command to create all tables given in the report:
 
-``` bash.sh ```
+``` 
+bash run.sh
+```
 
 Reference:
 1. [Backpropagation-free Network for 3D Test-time Adaptation (BFTT3D)](https://github.com/abie-e/BFTT3D)
