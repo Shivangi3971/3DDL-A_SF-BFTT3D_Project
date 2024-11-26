@@ -58,9 +58,9 @@ bash run.sh
 
 Reference:
 1. [Backpropagation-free Network for 3D Test-time Adaptation (BFTT3D)](https://github.com/abie-e/BFTT3D)
-2. [PointNet]
-3. [DGCNN]
-4. [Curvenet]
+2. [PointNet](https://github.com/fxia22/pointnet.pytorch)
+3. [DGCNN](https://github.com/WangYueFt/dgcnn)
+4. [Curvenet](https://github.com/tiangexiang/CurveNet)
 
 
 #### Code belongs to Group-9 (Shivangi Rai and Kunal Jangid)
