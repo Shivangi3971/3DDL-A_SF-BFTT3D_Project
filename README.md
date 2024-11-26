@@ -3,7 +3,7 @@
 Installation 
 
 
-Create a python virtual environment using pip and install dependencies after activating it:
+Create a Python virtual environment using pip and install dependencies after activating it:
 
 ##### Use Cuda 11.1 and torch 1.8.2
 
@@ -50,7 +50,7 @@ dgcnn.t7 - trained dgcnn model trained by our group.
 
 ## Run 3DDL-A_SF-BFTT3D_Project files
 
-Just run below command to create all tables given in the report:
+Just run the below command to create all tables given in the report (containing reproduced results from the given pre-trained source model, trained source model from scratch on different backbones, and various experiments):
 
 ``` 
 bash run.sh
@@ -63,6 +63,6 @@ Reference:
 4. [Curvenet](https://github.com/tiangexiang/CurveNet)
 
 
-#### Code belongs to Group-9 (Shivangi Rai and Kunal Jangid)
+#### Code belongs to Group-9 ([Shivangi Rai](https://github.com/Shivangi3971) and [Kunal Jangid](https://github.com/kunaljangid01))
 
 
